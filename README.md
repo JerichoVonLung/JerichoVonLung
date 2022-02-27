@@ -7,7 +7,6 @@
 - My TTRPG, Shantied Lands: https://discord.gg/EKvbDMxnBB
 - My Blog: https://lungsworld.blogspot.com/
 - My Discord (Don't add without joining one of my servers, dm first): Jericho Von Lung#8545
-- 
 <!---
 JerichoVonLung/JerichoVonLung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
