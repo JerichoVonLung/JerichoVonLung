@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JerichoVonLung but I preffer being called Lung
+- 👋 Hi, I’m Quinndaline L but I preffer being called Lung or Quinn
 - 👀 I’m interested in Game Design, Game Balance, Concept Art, Writing, and Music
-- 🌱 I’m currently learning Python and GDScript
+- 🌱 I’m currently learning Studio One and Minecraft Modpack Making
 - 💞️ I’m looking to collaborate on Roguelikes, Shooters, Classbased Games, RTS Games, Text Based Games
 - 📫 How to reach me:
 - My Main Server: https://discord.gg/Hg7HpDy 
